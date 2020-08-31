@@ -38,43 +38,6 @@ $(document).ready(function() {
 
  
 });
-//  var saveBtns = document.querySelector(".saveBtn").click((e) =>  buttonClickHandler(e))
 
-
-// $(document).ready(function() {
-//     $("#9").click(function(){
-//         alert("").text;
-//     });
-// })
-    
-
-
-
-// $(function(){
-//     event.preventDefault();
-
-// });
-
-// $(function(){
-//     // var today = new Date();
-//     // $("#currentDay").text(today);
-   
-// });
-// $(".saveBtn").click(function(){
-//     notes.push({
-//         Task: "Lunch",
-//         description: "store text"
-
-//     })
-//     localStorage.setItem("notes", JSON.stringify(notes));
-
-// var tasks = [];
-// const storeTask = (ev) =>{
-//     ev.preventDefault();
-//     var task ={
-//         id: Date.now(),
-//         content: $("notes").value
-//     }
-// }
    
 
